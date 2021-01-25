@@ -1,0 +1,121 @@
+@media screen and (max-width:480px){
+    .image img{
+        width: 20rem;
+        height: 20rem;
+    }
+    .text{
+        width: 25rem;
+    }
+
+    .acad{
+        width: 180px;
+        height: 34px;
+        letter-spacing: 5px;
+    }
+    .acad h2{
+        font-size:large;
+    }
+
+    .point{
+        margin-top: 13%;
+    }
+    .info{
+        margin-top: 13%;
+        width: 37%;
+        margin-left: 5%;
+    }
+    .info h5{
+        font-size: small;
+    }
+    .info h4{
+        font-size: small;
+    }
+    .infor{
+        margin-top: 13%;
+        width: 37%;
+    }
+    .infor h5{
+        font-size: small;
+    }
+    .infor h4{
+        font-size: small;
+    }
+    .pointr{
+        margin-top: 13%;
+        margin-left: 3%;
+    }
+    .mark{
+        margin-left: 46.5%;
+    }
+    .liner{
+        margin-left: 49.5%;
+    }
+    #exp{
+        font-size: 2rem;
+        width: 250px;
+        margin-left: 15%;
+    }
+    .internship{
+        width: 250px;
+        height: 180px;
+        margin-bottom: 5%
+    }
+    .internship h3{
+        font-size: larger;
+    }
+    .internship p{
+        font-size: small;
+    }
+    .internship:hover{
+        background-color: rgb(223, 243, 247);
+        box-shadow: 5px 5px 5px rgb(224, 134, 241);
+        width: 260px;
+        height: 190px;
+    }
+
+    .s-card{
+        width: 250px;
+        height: 150px;
+        margin-top: 15%;
+        margin-bottom: 10%;
+    }
+    .s-open{
+        width: 200px;
+        left: 10px;
+    }
+    .s-open h4{
+        font-size: medium;
+    }
+    #pro1{
+        width: 100px;
+        height: 100px;
+        margin-top: 10%;
+    }
+    #pro2{
+        width: 150px;
+        height: 120px;
+    }
+    .contain{
+        grid-template-columns: 3fr 2fr 3fr;
+    }
+    .start{
+        margin-top: 1rem;
+    }
+    .mid h3{
+        font-size: 2rem;
+    }
+    .boxes{
+        width: 100%;
+        margin-left: 5%;
+    }
+    .skills li{
+        font-size: small;
+    }
+    .info1 h2{
+        font-size: large;
+    }
+    }
+    .info2{
+        font-size: 15px;
+    }
+}

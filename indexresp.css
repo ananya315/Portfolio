@@ -81,10 +81,16 @@
     }
     .s-open{
         width: 200px;
-        left: 10px;
+        left: 5px;
     }
     .s-open h4{
         font-size: medium;
+    }
+    .s-content h4{
+        font-size: large;
+    }
+    .s-content p{
+        font-size: small;
     }
     #pro1{
         width: 100px;

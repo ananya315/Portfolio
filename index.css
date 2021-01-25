@@ -73,6 +73,7 @@
 .content{
     display: flex;
     font-family: 'Noto Sans TC', sans-serif;
+    overflow-x: hidden;
 }
 .point{
     border-top: 1em solid rgb(229, 224, 250);
@@ -139,6 +140,7 @@
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-evenly; 
+    overflow-x: hidden;
 }
 .internship{
     border: 3px groove rgb(147, 40, 168);
@@ -171,6 +173,7 @@
     width: 70%;
     margin-left: 15%;
     height: 100%;
+    overflow-x: hidden;
 }
 #pro1{
     height: 150px;
@@ -231,6 +234,7 @@
     margin-top: 5%;
     display: grid;
     grid-template-columns: 3fr 0.5fr 3fr;
+    overflow-x: hidden;
 }
 .start{
     border: 2px solid blue;
@@ -257,6 +261,7 @@
     flex-wrap: wrap;
     flex-direction: row;
     margin-left: 30%;
+    overflow-x: hidden;
 }
 .lists{
     width: 50%;
@@ -288,6 +293,7 @@
     background-color: rgb(225, 224, 231);
     color: rgb(38, 3, 54);
     text-align: center;
+    overflow-x: hidden;
 }
 .info1{
     margin-top: 2%;
@@ -323,4 +329,5 @@
     text-align: center;
     padding: 5px 5px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    overflow-x: hidden;
 }
